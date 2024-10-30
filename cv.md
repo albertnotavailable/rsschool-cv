@@ -2,7 +2,7 @@
 
 ## Introdusing myself
 
-![photocard](https://cdn.lucidpic.com/cdn-cgi/image/w=600,format=auto,metadata=none/66e30e36c1442.png){: width="50%"}
+<img src="images/ava.avif" width=40% height=40%>
 
 ### General information 
 
